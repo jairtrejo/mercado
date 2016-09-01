@@ -1,0 +1,21 @@
+body {
+    font-family: 'Avenir Next', 'Helvetica', 'Arial', Sans-serif;
+    font-size: 16px;
+    color: #333;
+}
+
+.container{
+    margin: 100px auto;
+    width: 800px;
+}
+
+h1{
+    text-align: left;
+    text-transform: uppercase;
+    border-bottom: solid 1px #000;
+    font-size: 1.5em;
+}
+
+canvas{
+    margin: 0 auto;
+}
